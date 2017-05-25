@@ -22,5 +22,6 @@ int main(){
 	printf("Hello git!");
 	printf("\n");
 	printf("Soma: %d\n", soma(2,3));
+	printf("Subtrai: %d\n", subtrai(3,2));
 	return 0;
 }
