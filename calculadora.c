@@ -21,5 +21,6 @@ int divide(int a, int b){
 int main(){
 	printf("Hello git!");
 	printf("\n");
+	printf("Soma: %d\n", soma(2,3));
 	return 0;
 }
