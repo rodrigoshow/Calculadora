@@ -23,5 +23,7 @@ int main(){
 	printf("\n");
 	printf("Soma: %d\n", soma(2,3));
 	printf("Subtrai: %d\n", subtrai(3,2));
+	printf("Multiplica: %d\n", multiplica(2,2));
+	printf("Divide: %d\n", divide(4,2));
 	return 0;
 }
